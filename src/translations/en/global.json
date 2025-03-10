@@ -1,0 +1,59 @@
+{
+    "navigation": {
+        "home": "Home",
+        "about": "About",
+        "training": "Training",
+        "gallery": "Gallery",
+        "pricing": "Pricing",
+        "contact": "Contact"
+    },
+    "headers": {
+        "head_1": "What I offer",
+        "head_2": "Gallery",
+        "head_3": "Pricing",
+        "head_4": "Contact"
+    },
+    "hero": {
+        "name": "I am Coach Amr",
+        "typed_1": "Pharmacist",
+        "typed_2": "Fitness Coach",
+        "typed_3": "Body building Coach"
+    },
+    "about": {
+        "name": "Coach Amr:",
+        "aboutMe": "A Pharmacist Personal Trainer with certificates in nutritions and bodybuilding.\n I offer muscle gain and weight loss , Health consultations, Therapeutic nutrition and curing nutritions desaeases.",
+        "app": "My app",
+        "app_description": "special app designed to give professional advices workout plans and it also provides many nutritional programs to give you the best experince and results"
+    },
+    "training": {
+        "h5_1": "Body Building",
+        "h5_2": "Muscle Gain",
+        "h5_3": "Weight Loss"
+    },
+    "gallery": {
+        "h3_before": "Before",
+        "h3_after": "After"
+    },
+    "pricing": {
+        "feature_1": "Fittness training",
+        "feature_2": "Weight losing classes",
+        "feature_3": "bodybuilding training",
+        "feature_4": "health consulting",
+        "btn": "Join Now"
+    },
+    "contact": {
+        "h3_location": "Location",
+        "p_location": "Damascus, Syria",
+        "h3_phone": "Phone",
+        "p_phone": "(+963) 958 295 285",
+        "h3_email": "Email",
+        "p_email": "CoachAmr@gmail.com"
+    },
+    "footer": {
+        "lang": "Language:",
+        "en": "English",
+        "ar": "Arabic",
+        "part1": "Copyright ©",
+        "part2": "All rights reserved"
+    }
+}
