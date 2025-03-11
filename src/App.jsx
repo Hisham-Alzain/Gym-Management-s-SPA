@@ -329,8 +329,8 @@ function App() {
                     <div className='social'>
                       {/* <a href="#"><FaFacebookF /></a> */}
                       <a href="https://www.instagram.com/compass.team_"><FaInstagram /></a>
-                      <a href="#"><FaWhatsapp /></a>
-                      <a href="#"><FaTelegramPlane /></a>
+                      <a href="https://wa.me/963994971127" target="_blank"><FaWhatsapp /></a>
+                      <a href="https://t.me/+963994971127" target="_blank"><FaTelegramPlane /></a>
                     </div>
                   </div>
                 </div>
